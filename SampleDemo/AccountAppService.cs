@@ -9,5 +9,13 @@ namespace SampleDemo
     class AccountAppService
     {
         public int MyProperty { get; set; }
+        public int SecondProperty { get; set; }
+
+        public void  Add(int a,int b)
+        {
+
+        }
+
+
     }
 }

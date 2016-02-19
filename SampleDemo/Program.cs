@@ -9,7 +9,7 @@ namespace SampleDemo
     class Program
     {
         /// <summary>
-        /// 
+        /// Main entry method
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)

@@ -8,5 +8,6 @@ namespace SampleDemo
 {
     class AccountAppService
     {
+        public int MyProperty { get; set; }
     }
 }

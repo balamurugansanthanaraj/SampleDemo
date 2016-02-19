@@ -13,7 +13,8 @@ namespace SampleDemo
 
         public void  Add(int a,int b)
         {
-
+            if (a == 0 && b == 0) return;
+            var c = a + b;
         }
 
 
